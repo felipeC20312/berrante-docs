@@ -12,12 +12,12 @@ O processo de análise foi realizado por meio de inspeção visual detalhada, ut
 
 A verificação foi segmentada em seis pilares principais:
 
-- ✔️ Consistência visual;
-- ✔️ Organização estrutural e hierarquia dos componentes;
-- ✔️ Aderência a padrões de design e boas práticas de UX/UI;
-- ✔️ Feedback visual e operacional ao usuário;
-- ✔️ Acessibilidade mínima recomendada (A11Y);
-- ✔️ Responsividade e adaptação para diferentes dispositivos.
+- Consistência visual;
+- Organização estrutural e hierarquia dos componentes;
+- Aderência a padrões de design e boas práticas de UX/UI;
+- Feedback visual e operacional ao usuário;
+- Acessibilidade mínima recomendada (A11Y);
+- Responsividade e adaptação para diferentes dispositivos.
 
 A estrutura do checklist foi organizada em tópicos que representam as principais áreas e componentes da interface, permitindo uma análise clara, objetiva e rastreável.
 
@@ -31,7 +31,7 @@ A estrutura do checklist foi organizada em tópicos que representam as principai
 - Notificações;
 - Logout;
 - Eventuais atalhos ou campo de busca global.
-
+ 
 ---
 
 ## Side-bar (Menu Lateral)
@@ -46,43 +46,171 @@ A estrutura do checklist foi organizada em tópicos que representam as principai
 
 #### Produtividade
 
-- [ ] Estoque de animais por categoria;
-- [ ] Estoque de animais por faixa etária;
-- [ ] Estoque de animais por localidade;
-- [ ] Consulta de animal;
-- [ ] Consulta de pesagem;
-- [ ] Identificações do animal;
-- [ ] Consulta por faixa de peso;
-- [ ] Contagem de rebanho;
-- [ ] Consumo de suplementação;
-- [ ] Consulta de chuva;
-- [ ] Movimentação do rebanho;
+- [x] Estoque de animais por categoria;
+  > [!WARNING] Não apresenta funcionalidades para exportação de relatório;
+  > Conteúdo difere do apresentado em farmtech.
 
-#### Gestação
+- [x] Estoque de animais por faixa etária;
+  > [!WARNING] Não apresenta funcionalidades para exportação de relatório;
+  > Conteúdo difere do apresentado em farmtech.
+
+- [x] Estoque de animais por localidade;
+  > [!WARNING] Apresenta seletor e checkbox;
+  > Não apresenta função para gerar relatório;
+  > Conteúdo difere do apresentado em farmtech.
+
+- [x] Consulta de animal;
+  > [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
+
+  > [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário.
+
+- [x] Consulta de pesagem;
+  > [!WARNING] Não apresenta funcionalidades para exportação de relatório;
+  > Conteúdo difere do apresentado em farmtech.
+
+- [x] Identificações do animal;
+  > [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
+  
+  > [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário.
+
+- [x] Consulta por faixa de peso;
+  > [!WARNING] Não apresenta funcionalidades para exportação de relatório;
+  > Conteúdo difere do apresentado em farmtech.
+
+- [x] Contagem de rebanho;
+   > [!WARNING] Não apresenta funcionalidades para exportação de relatório;
+   > Conteúdo difere do apresentado em farmtech.
+
+- [x] Consumo de suplementação;
+  > [!WARNING] Não apresenta funcionalidades para exportação de relatório;
+  > Conteúdo difere do apresentado em farmtech.
+
+- [x] Consulta de chuva;
+  > [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
+
+  > [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
+
+  > [!WARNING] inconsistência visual no componente frame que referencia o sistema farmtech.
+
+- [x] Movimentação do rebanho;
+  > [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
+
+  > [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
+
+  > [!WARNING] inconsistência visual no componente frame que referencia o sistema farmtech.
+
+
+#### Reprodução
 
 > Funcionalidades relacionadas à gestão do ciclo reprodutivo dos animais.
 
-- [ ] Gestação;
-- [ ] Descarte;
-- [ ] Desmame;
-- [ ] Diagnóstico de gestação;
-- [ ] Inseminação;
-- [ ] Nascimento;
-- [ ] Previsão de parto;
-- [ ] Protocolo reprodutivo;
+- [x] Gestação;
+  > [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
+
+  > [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
+
+  > [!WARNING] inconsistência visual no componente frame que referencia o sistema farmtech.
+
+
+- [x] Descarte;
+  > [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
+
+  > [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
+
+  > [!WARNING] inconsistência visual no componente frame que referencia o sistema farmtech.
+
+
+- [x] Desmame;
+  > [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
+
+  > [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
+
+  > [!WARNING] inconsistência visual no componente frame que referencia o sistema farmtech.
+
+
+- [x] Diagnóstico de gestação;
+  > [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
+
+  > [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
+
+  > [!WARNING] inconsistência visual no componente frame que referencia o sistema farmtech.
+
+
+- [x] Inseminação;
+  > [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
+
+  > [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
+
+  > [!WARNING] inconsistência visual no componente frame que referencia o sistema farmtech.
+
+
+- [x] Nascimento;
+  > [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
+
+  > [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
+
+  > [!WARNING] inconsistência visual no componente frame que referencia o sistema farmtech.
+
+
+- [x] Previsão de parto;
+  > [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
+
+  > [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
+
+  > [!WARNING] inconsistência visual no componente frame que referencia o sistema farmtech.
+
+
+- [x] Protocolo reprodutivo;
+  > [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
+
+  > [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
+
+  > [!WARNING] inconsistência visual no componente frame que referencia o sistema farmtech.
 
 #### SISBOV
 
 > Funcionalidades vinculadas ao controle sanitário e rastreabilidade do rebanho conforme as diretrizes do SISBOV.
 
-- [ ] Planilha de identificações;
-- [ ] Comunicado de entrada de animais;
-- [ ] Comunicado de nascimento de animais;
-- [ ] Comunicado de saída de animais;
-- [ ] Comunicado de morte de animais;
-- [ ] Comunicado de reidentificação;
-- [ ] Dia eletrônico;
-- [ ] Solicitação de alteração de animais;
+- [x] Planilha de identificações;
+  > [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
+
+  > [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
+
+- [x] Comunicado de entrada de animais;
+  > [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
+
+  > [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
+
+- [x] Comunicado de nascimento de animais;
+  > [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
+
+  > [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
+
+- [x] Comunicado de saída de animais;
+  > [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
+
+  > [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
+
+- [x] Comunicado de morte de animais;
+  > [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
+
+  > [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
+
+- [x] Comunicado de reidentificação;
+  > [!WARNING] Não apresenta funcionalidades para exportação de relatório;
+  > Conteúdo difere do apresentado em farmtech.
+
+- [x] Dia eletrônico;
+  > [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
+
+  > [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
+
+
+- [x] Solicitação de alteração de animais;
+  > [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
+
+  > [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
+
 
 #### Financeiro
 
@@ -182,9 +310,13 @@ A estrutura do checklist foi organizada em tópicos que representam as principai
 
 > Espaço destinado para apontamentos específicos que não se enquadram nas categorias anteriores, como bugs visuais, incoerências ou sugestões de melhoria.
 
-- [ ] Ex.: Campo de busca na Top-bar não exibe mensagem quando não há resultados;
-- [ ] Ex.: Ícones no menu lateral perdem nitidez em telas retina;
-- [ ] Ex.: Não há indicador visual durante carregamento de relatórios pesados;
+> [!WARNING] Ao tentar login com diferentes usuários o sistema direciona para o mesmo usuário sempre, todavia foi realizado a validação de login e senha e há a validação de tentativa de acesso.
+
+> [!WARNING] Trechos específicos do sistema apresentam inconsistências visuais como o drop-menu das configurações do usuário (top-bar>profile-btn>drop-menu).
+
+> [!WARNING] Seção faltante em Relatórios > Reprodução: Relatório de Genealogia Animal.
+
+> ![WARNING] Trechos do sistema apresentam log de erro: "Method not found", exemplo em Relatórios > SISBOV > Planilha de Identificação (botão de reload) onde é observado o log de erro: "Method not found: br.com.biox.bovitech.controller.PlanilhaIdentificacaoBean@d8020cb.baixarPlanilhas()"
 
 ---
 
