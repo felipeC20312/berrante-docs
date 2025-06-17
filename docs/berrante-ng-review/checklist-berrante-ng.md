@@ -70,7 +70,7 @@ A estrutura do checklist foi organizada em tópicos que representam as principai
 
 - [x] Identificações do animal;
   > [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
-  
+
   > [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário.
 
 - [x] Consulta por faixa de peso;
@@ -78,8 +78,8 @@ A estrutura do checklist foi organizada em tópicos que representam as principai
   > Conteúdo difere do apresentado em farmtech.
 
 - [x] Contagem de rebanho;
-   > [!WARNING] Não apresenta funcionalidades para exportação de relatório;
-   > Conteúdo difere do apresentado em farmtech.
+  > [!WARNING] Não apresenta funcionalidades para exportação de relatório;
+  > Conteúdo difere do apresentado em farmtech.
 
 - [x] Consumo de suplementação;
   > [!WARNING] Não apresenta funcionalidades para exportação de relatório;
@@ -216,16 +216,73 @@ A estrutura do checklist foi organizada em tópicos que representam as principai
 
 > Gestão financeira voltada às operações do rebanho e da propriedade.
 
-- [ ] Compra de animais;
-- [ ] Venda de animais;
-- [ ] Fluxo de caixa;
-- [ ] Consulta de lançamentos;
-- [ ] Meta versus realizado;
-- [ ] Previsão final de caixa;
-- [ ] Consulta de estoque;
-- [ ] Análise de custeio;
-- [ ] Análise financeira;
-- [ ] Balance (BETA);
+- [x] Compra de animais;
+  > [!WARNING] Não apresenta funcionalidades para exportação de relatório;
+  > Conteúdo difere do apresentado em farmtech.
+
+- [x] Venda de animais;
+  > [!WARNING] Não apresenta funcionalidades para exportação de relatório;
+  > Conteúdo difere do apresentado em farmtech.
+
+- [x] Fluxo de caixa;
+  > [!WARNING] Não apresenta funcionalidades para exportação de relatório;
+  > Conteúdo difere do apresentado em farmtech.
+
+- [x] Consulta de lançamentos;
+  > [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
+
+  > [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
+
+  > [!WARNING] inconsistência visual no componente frame que referencia o sistema farmtech.
+
+- [x] Extrato de lançamentos;
+  > [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
+
+  > [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
+
+  > [!WARNING] inconsistência visual no componente frame que referencia o sistema farmtech.
+
+- [x] Meta versus realizado;
+  > [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
+
+  > [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
+
+  > [!WARNING] inconsistência visual no componente frame que referencia o sistema farmtech.
+
+- [x] Previsão final de caixa;
+  > [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
+
+  > [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
+
+  > [!WARNING] inconsistência visual no componente frame que referencia o sistema farmtech.
+
+- [x] Consulta de estoque;
+  > [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
+
+  > [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
+
+  > [!WARNING] inconsistência visual no componente frame que referencia o sistema farmtech.
+
+- [x] Análise de custeio;
+  > [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
+
+  > [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
+
+  > [!WARNING] inconsistência visual no componente frame que referencia o sistema farmtech.
+
+- [x] Análise financeira;
+  > [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
+
+  > [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
+
+  > [!WARNING] inconsistência visual no componente frame que referencia o sistema farmtech.
+
+- [x] Balance (BETA);
+> [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
+
+  > [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
+
+  > [!WARNING] inconsistência visual no componente frame que referencia o sistema farmtech.
 
 ---
 
