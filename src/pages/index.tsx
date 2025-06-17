@@ -21,7 +21,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className='button button--secondary button--lg'
-            to='/docs/category/berrante-ng-system'>
+            to='/docs/projects/berrante-ng/checklist-berrante-ng'>
             Documentação do Projeto
           </Link>
         </div>
