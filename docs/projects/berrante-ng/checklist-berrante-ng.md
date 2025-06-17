@@ -47,57 +47,57 @@ A estrutura do checklist foi organizada em tópicos que representam as principai
 #### Produtividade
 
 - [x] Estoque de animais por categoria;
-  > [!WARNING] Não apresenta funcionalidades para exportação de relatório;
-  > Conteúdo difere do apresentado em farmtech.
+> [!WARNING] Não apresenta funcionalidades para exportação de relatório;
+> Conteúdo difere do apresentado em farmtech.
 
 - [x] Estoque de animais por faixa etária;
-  > [!WARNING] Não apresenta funcionalidades para exportação de relatório;
-  > Conteúdo difere do apresentado em farmtech.
+> [!WARNING] Não apresenta funcionalidades para exportação de relatório;
+> Conteúdo difere do apresentado em farmtech.
 
 - [x] Estoque de animais por localidade;
-  > [!WARNING] Apresenta seletor e checkbox;
-  > Não apresenta função para gerar relatório;
-  > Conteúdo difere do apresentado em farmtech.
+> [!WARNING] Apresenta seletor e checkbox;
+> Não apresenta função para gerar relatório;
+> Conteúdo difere do apresentado em farmtech.
 
 - [x] Consulta de animal;
-  > [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
+> [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
 
-  > [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário.
+> [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário.
 
 - [x] Consulta de pesagem;
-  > [!WARNING] Não apresenta funcionalidades para exportação de relatório;
-  > Conteúdo difere do apresentado em farmtech.
+> [!WARNING] Não apresenta funcionalidades para exportação de relatório;
+> Conteúdo difere do apresentado em farmtech.
 
 - [x] Identificações do animal;
-  > [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
+> [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
 
-  > [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário.
+> [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário.
 
 - [x] Consulta por faixa de peso;
-  > [!WARNING] Não apresenta funcionalidades para exportação de relatório;
-  > Conteúdo difere do apresentado em farmtech.
+> [!WARNING] Não apresenta funcionalidades para exportação de relatório;
+> Conteúdo difere do apresentado em farmtech.
 
 - [x] Contagem de rebanho;
-  > [!WARNING] Não apresenta funcionalidades para exportação de relatório;
-  > Conteúdo difere do apresentado em farmtech.
+> [!WARNING] Não apresenta funcionalidades para exportação de relatório;
+> Conteúdo difere do apresentado em farmtech.
 
 - [x] Consumo de suplementação;
-  > [!WARNING] Não apresenta funcionalidades para exportação de relatório;
-  > Conteúdo difere do apresentado em farmtech.
+> [!WARNING] Não apresenta funcionalidades para exportação de relatório;
+> Conteúdo difere do apresentado em farmtech.
 
 - [x] Consulta de chuva;
-  > [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
+> [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
 
-  > [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
+> [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
 
-  > [!WARNING] inconsistência visual no componente frame que referencia o sistema farmtech.
+> [!WARNING] inconsistência visual no componente frame que referencia o sistema farmtech.
 
 - [x] Movimentação do rebanho;
-  > [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
+> [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
 
-  > [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
+> [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
 
-  > [!WARNING] inconsistência visual no componente frame que referencia o sistema farmtech.
+> [!WARNING] inconsistência visual no componente frame que referencia o sistema farmtech.
 
 
 #### Reprodução
@@ -105,111 +105,111 @@ A estrutura do checklist foi organizada em tópicos que representam as principai
 > Funcionalidades relacionadas à gestão do ciclo reprodutivo dos animais.
 
 - [x] Gestação;
-  > [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
+> [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
 
-  > [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
+> [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
 
-  > [!WARNING] inconsistência visual no componente frame que referencia o sistema farmtech.
+> [!WARNING] inconsistência visual no componente frame que referencia o sistema farmtech.
 
 
 - [x] Descarte;
-  > [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
+> [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
 
-  > [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
+> [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
 
-  > [!WARNING] inconsistência visual no componente frame que referencia o sistema farmtech.
+> [!WARNING] inconsistência visual no componente frame que referencia o sistema farmtech.
 
 
 - [x] Desmame;
-  > [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
+> [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
 
-  > [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
+> [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
 
-  > [!WARNING] inconsistência visual no componente frame que referencia o sistema farmtech.
+> [!WARNING] inconsistência visual no componente frame que referencia o sistema farmtech.
 
 
 - [x] Diagnóstico de gestação;
-  > [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
+> [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
 
-  > [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
+> [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
 
-  > [!WARNING] inconsistência visual no componente frame que referencia o sistema farmtech.
+> [!WARNING] inconsistência visual no componente frame que referencia o sistema farmtech.
 
 
 - [x] Inseminação;
-  > [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
+> [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
 
-  > [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
+> [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
 
-  > [!WARNING] inconsistência visual no componente frame que referencia o sistema farmtech.
+> [!WARNING] inconsistência visual no componente frame que referencia o sistema farmtech.
 
 
 - [x] Nascimento;
-  > [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
+> [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
 
-  > [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
+> [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
 
-  > [!WARNING] inconsistência visual no componente frame que referencia o sistema farmtech.
+> [!WARNING] inconsistência visual no componente frame que referencia o sistema farmtech.
 
 
 - [x] Previsão de parto;
-  > [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
+> [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
 
-  > [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
+> [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
 
-  > [!WARNING] inconsistência visual no componente frame que referencia o sistema farmtech.
+> [!WARNING] inconsistência visual no componente frame que referencia o sistema farmtech.
 
 
 - [x] Protocolo reprodutivo;
-  > [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
+> [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
 
-  > [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
+> [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
 
-  > [!WARNING] inconsistência visual no componente frame que referencia o sistema farmtech.
+> [!WARNING] inconsistência visual no componente frame que referencia o sistema farmtech.
 
 #### SISBOV
 
 > Funcionalidades vinculadas ao controle sanitário e rastreabilidade do rebanho conforme as diretrizes do SISBOV.
 
 - [x] Planilha de identificações;
-  > [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
+> [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
 
-  > [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
+> [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
 
 - [x] Comunicado de entrada de animais;
-  > [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
+> [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
 
-  > [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
+> [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
 
 - [x] Comunicado de nascimento de animais;
-  > [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
+> [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
 
-  > [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
+> [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
 
 - [x] Comunicado de saída de animais;
-  > [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
+> [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
 
-  > [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
+> [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
 
 - [x] Comunicado de morte de animais;
-  > [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
+> [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
 
-  > [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
+> [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
 
 - [x] Comunicado de reidentificação;
-  > [!WARNING] Não apresenta funcionalidades para exportação de relatório;
-  > Conteúdo difere do apresentado em farmtech.
+> [!WARNING] Não apresenta funcionalidades para exportação de relatório;
+> Conteúdo difere do apresentado em farmtech.
 
 - [x] Dia eletrônico;
-  > [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
+> [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
 
-  > [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
+> [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
 
 
 - [x] Solicitação de alteração de animais;
-  > [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
+> [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
 
-  > [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
+> [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
 
 
 #### Financeiro
@@ -221,68 +221,68 @@ A estrutura do checklist foi organizada em tópicos que representam as principai
   > Conteúdo difere do apresentado em farmtech.
 
 - [x] Venda de animais;
-  > [!WARNING] Não apresenta funcionalidades para exportação de relatório;
-  > Conteúdo difere do apresentado em farmtech.
+> [!WARNING] Não apresenta funcionalidades para exportação de relatório;
+> Conteúdo difere do apresentado em farmtech.
 
 - [x] Fluxo de caixa;
-  > [!WARNING] Não apresenta funcionalidades para exportação de relatório;
-  > Conteúdo difere do apresentado em farmtech.
+> [!WARNING] Não apresenta funcionalidades para exportação de relatório;
+> Conteúdo difere do apresentado em farmtech.
 
 - [x] Consulta de lançamentos;
-  > [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
+> [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
 
-  > [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
+> [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
 
-  > [!WARNING] inconsistência visual no componente frame que referencia o sistema farmtech.
+> [!WARNING] inconsistência visual no componente frame que referencia o sistema farmtech.
 
 - [x] Extrato de lançamentos;
-  > [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
+> [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
 
-  > [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
+> [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
 
-  > [!WARNING] inconsistência visual no componente frame que referencia o sistema farmtech.
+> [!WARNING] inconsistência visual no componente frame que referencia o sistema farmtech.
 
 - [x] Meta versus realizado;
-  > [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
+> [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
 
-  > [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
+> [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
 
-  > [!WARNING] inconsistência visual no componente frame que referencia o sistema farmtech.
+> [!WARNING] inconsistência visual no componente frame que referencia o sistema farmtech.
 
 - [x] Previsão final de caixa;
-  > [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
+> [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
 
-  > [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
+> [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
 
-  > [!WARNING] inconsistência visual no componente frame que referencia o sistema farmtech.
+> [!WARNING] inconsistência visual no componente frame que referencia o sistema farmtech.
 
 - [x] Consulta de estoque;
-  > [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
+> [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
 
-  > [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
+> [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
 
-  > [!WARNING] inconsistência visual no componente frame que referencia o sistema farmtech.
+> [!WARNING] inconsistência visual no componente frame que referencia o sistema farmtech.
 
 - [x] Análise de custeio;
-  > [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
+> [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
 
-  > [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
+> [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
 
-  > [!WARNING] inconsistência visual no componente frame que referencia o sistema farmtech.
+> [!WARNING] inconsistência visual no componente frame que referencia o sistema farmtech.
 
 - [x] Análise financeira;
-  > [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
+> [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
 
-  > [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
+> [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
 
-  > [!WARNING] inconsistência visual no componente frame que referencia o sistema farmtech.
+> [!WARNING] inconsistência visual no componente frame que referencia o sistema farmtech.
 
 - [x] Balance (BETA);
 > [!SUCCESS] Conteúdo similar ou idêntico ao apresentado em farmtech;
 
-  > [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
+> [!WARNING] Sistema não realiza exportação de arquivos do usuário logado ou não é capaz de identificar os dados relacionados ao usuário;
 
-  > [!WARNING] inconsistência visual no componente frame que referencia o sistema farmtech.
+> [!WARNING] inconsistência visual no componente frame que referencia o sistema farmtech.
 
 ---
 
@@ -339,13 +339,11 @@ A estrutura do checklist foi organizada em tópicos que representam as principai
 > Análise da navegabilidade, clareza das interações e qualidade do feedback entregue ao usuário.
 
 ### Navegação
-
 - [ ] Menus intuitivos e de fácil localização;
 - [ ] Itens de maior prioridade recebem destaque;
 - [ ] URLs são limpas, amigáveis e refletem corretamente as rotas;
 
 ### Feedback de Ações
-
 - [ ] Mensagens claras após ações (sucesso, erro, confirmação);
 - [ ] Indicadores de carregamento sempre presentes quando necessário;
 - [ ] Validações de formulário visíveis, claras e bem posicionadas;
@@ -373,7 +371,9 @@ A estrutura do checklist foi organizada em tópicos que representam as principai
 
 > [!WARNING] Seção faltante em Relatórios > Reprodução: Relatório de Genealogia Animal.
 
-> ![WARNING] Trechos do sistema apresentam log de erro: "Method not found", exemplo em Relatórios > SISBOV > Planilha de Identificação (botão de reload) onde é observado o log de erro: "Method not found: br.com.biox.bovitech.controller.PlanilhaIdentificacaoBean@d8020cb.baixarPlanilhas()"
+> [!WARNING] Trechos do sistema apresentam log de erro: "Method not found", exemplo em Relatórios > SISBOV > Planilha de Identificação (botão de reload) onde é observado o log de erro: "Method not found: br.com.biox.bovitech.controller.PlanilhaIdentificacaoBean@d8020cb.baixarPlanilhas()"
+
+> [!BUG] Ao acessar a aplicação berrante-ng, e realizar login com nome de usuário e senha, após a validação, não é identificado o vinculo do usuário a uma base de dados existente, outro fator de relevância é a ausência do sistema de seleção quando o login do usuário é vinculado a mais de uma base de produtor, não é possível vincular o produtor ou mesmo a propriedade desejada. Exemplos de usuário com mais de uma base de dados de produtor vinculada: gerantegeral3m.
 
 ---
 
